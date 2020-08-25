@@ -1,10 +1,10 @@
 /* Global Styles */
 :root {
-  --primary-color: #3F84E5;
+  --primary-color: #1875E5;
   --dark-color: #26262C;
   --light-color: #F8F2F4;
-  --danger-color: #E4113F;
-  --success-color: #3F784C;
+  --danger-color: #C5523F;
+  --success-color: #499255;
 }
 
 * {
@@ -246,6 +246,14 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.form-header {
+  text-align: center;
+}
+
+.form-content {
+  text-align: center;
 }
 
 /* Forms */
